@@ -5,7 +5,7 @@
 
 ![Start](https://github.com/user-attachments/assets/8f088db0-7ecf-415d-85fc-5783af29bd87)
 
-<H3> Fun interaactive gameplay</H3>
+<H3> Fun interactive gameplay</H3>
 
 ![game](https://github.com/user-attachments/assets/9c18c10b-828a-499f-920a-a5c556d8ca8b)
 
